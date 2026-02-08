@@ -1,0 +1,24 @@
+From: noreply@iscb.org
+To: researcher@university.edu
+Subject: [ISMB 2026 MLSB] Oral Presentation Selected!
+Date: Thu, 05 Feb 2026 08:00:00 +0000
+
+Dear Dr. Jane Doe,
+
+🎉 Congratulations! Your Paper Has Been Selected for an Oral Presentation!
+
+We are happy to notify you that your submission "Attention-Based Models for Rapid Protein Structure Prediction" has been selected for an oral presentation at the ISMB 2026 Machine Learning in Structural Biology (MLSB) Workshop!
+
+25 submissions were selected for orals this year, representing the top 15% of all workshop submissions.
+
+Presentation Details:
+- Duration: 10 minutes presentation + 3 minutes Q&A
+- Date: 2026-07-14
+- Format: In-person (hybrid option available)
+
+We will update the schedule here: https://www.iscb.org/ismb2026/workshops/mlsb/schedule
+
+Congratulations, and thank you for submitting your work to MLSB. We are looking forward to seeing you at the workshop!
+
+Sincerely,
+ISMB 2026 MLSB Workshop Organizing Committee

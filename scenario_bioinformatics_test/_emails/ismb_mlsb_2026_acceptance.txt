@@ -1,0 +1,28 @@
+From: noreply@iscb.org
+To: researcher@university.edu
+Subject: [ISMB 2026 MLSB Workshop] Paper Acceptance Notification
+Date: Sat, 07 Feb 2026 16:00:00 +0000
+
+Dear Dr. Jane Doe,
+
+Congratulations! We are pleased to inform you that your paper has been accepted to the ISMB 2026 Workshop on Machine Learning in Structural Biology (MLSB 2026)!
+
+Paper Title: "Attention-Based Models for Rapid Protein Structure Prediction"
+
+The camera-ready version of your paper is due by 2026-02-19 at 11:59 PM AOE.
+
+Camera-Ready Checklist:
+1. Format your paper using the ISMB 2026 workshop LaTeX template
+2. Include author names and affiliations (no longer anonymous)
+3. Page limit: 4 pages + unlimited references
+4. Upload to EasyChair by the deadline
+5. At least one author must register for the conference
+
+Important: Workshop papers should be submitted to the workshop track, NOT the main conference track.
+
+Template download: https://www.iscb.org/templates/ismb2026_workshop_camera_ready.zip
+
+For questions, contact: mlsb-workshop@iscb.org
+
+Best regards,
+ISMB 2026 MLSB Workshop Organizing Committee

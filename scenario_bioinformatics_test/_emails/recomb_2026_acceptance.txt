@@ -1,0 +1,27 @@
+From: noreply@recomb.org
+To: researcher@university.edu
+Subject: [RECOMB 2026] Camera-Ready Submission Portal Now Open
+Date: Sun, 08 Feb 2026 00:00:00 +0000
+
+Dear Author,
+
+Congratulations on your accepted paper at the Research in Computational Molecular Biology (RECOMB 2026)!
+
+Your paper "CRISPR-Cas9 Guide RNA Optimization Through Deep Reinforcement Learning" has been selected for a SPOTLIGHT presentation at RECOMB 2026!
+
+Camera-Ready Submission is Now Open
+Deadline: 2026-02-13 (11:59 PM AOE)
+
+Please prepare your camera-ready version according to the following guidelines:
+- Page limit: 15 pages (including figures and tables) + unlimited pages for references
+- Format: Use the official RECOMB 2026 LaTeX style files
+- Registration: At least one author must register by 2026-02-11
+
+Submit your camera-ready paper here: https://recomb-conf.org/camera-ready/2026
+
+Looking forward to seeing you in Vienna this May!
+
+Best regards,
+Prof. Alexander Schmidt
+RECOMB 2026 Publications Chair
+publications@recomb-conf.org

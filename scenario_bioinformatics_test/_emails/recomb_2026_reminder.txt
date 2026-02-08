@@ -1,0 +1,17 @@
+From: noreply@recomb.org
+To: researcher@university.edu
+Subject: [RECOMB 2026] Camera-ready deadline reminder
+Date: Sat, 07 Feb 2026 16:00:00 +0000
+
+Dear Dr. Jane Doe,
+
+The camera-ready submission deadline has been extended to 2026-02-19 (11:59pm AoE).
+
+See instructions here: https://recomb-conf.org/2026/AuthorInstructions
+
+We are aware of the issue with the paper format checker, and are working to resolve it.
+
+Regards,
+RECOMB 2026 Publications Chairs
+
+Please note that responding to this email will direct your reply to publications@recomb-conf.org.

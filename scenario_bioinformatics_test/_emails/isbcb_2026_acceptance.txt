@@ -1,0 +1,27 @@
+From: noreply@isbcb.org
+To: researcher@university.edu
+Subject: [ISBCB 2026] Camera-Ready Instructions for Accepted Papers
+Date: Sat, 07 Feb 2026 20:00:00 +0000
+
+Dear Dr. Jane Doe,
+
+Congratulations on your paper 'Integrative Single-Cell Multi-Omics Analysis for Cancer Biomarker Discovery' acceptance to the International Symposium on Bioinformatics and Computational Biology (ISBCB 2026)!
+
+The camera-ready version of your paper is due by 2026-02-15 at 11:59 PM AOE. Please carefully follow the instructions below to ensure your paper appears in the proceedings.
+
+Camera-Ready Checklist:
+1. Format your paper using the ISBCB 2026 LaTeX template (updated version)
+2. Include author names and affiliations (no longer anonymous)
+3. Page limit: 10 pages + unlimited references and appendix
+4. Upload to CMT by the deadline
+5. At least one author must register for the conference
+6. Sign the copyright form (link in CMT)
+
+Important: Papers not meeting these requirements by the deadline will be withdrawn from the proceedings.
+
+Template download: https://isbcb.org/templates/isbcb2026_camera_ready.zip
+
+For questions, contact: proceedings@isbcb2026.org
+
+Best regards,
+ISBCB 2026 Publication Chairs
